@@ -1,0 +1,235 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Luna Exotic Companion</title>
+<meta name="description" content="Luna Exotic Companion — Elegance, grace and refined adult companionship.">
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Georgia, serif;
+  background: #fbf6ec;
+  color: #594a36;
+  line-height: 1.7;
+}
+
+header {
+  padding: 25px 15px;
+  text-align: center;
+  background: #e9d8b8;
+}
+
+.logo {
+  font-size: 25px;
+  letter-spacing: 3px;
+  color: #725b37;
+  font-weight: bold;
+}
+
+nav {
+  margin-top: 15px;
+}
+
+nav a {
+  color: #725b37;
+  text-decoration: none;
+  margin: 0 10px;
+  font: 12px Arial, sans-serif;
+}
+
+.hero {
+  text-align: center;
+  padding: 105px 20px;
+  background: linear-gradient(135deg, #f3e7d0, #d9c19a);
+}
+
+.hero h1 {
+  font-size: clamp(38px, 7vw, 65px);
+  font-weight: normal;
+  color: #705735;
+  line-height: 1.2;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 17px;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 13px 28px;
+  background: #a88958;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font: 12px Arial, sans-serif;
+}
+
+section {
+  padding: 75px 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: normal;
+  color: #9a7950;
+  margin-bottom: 20px;
+}
+
+.description {
+  max-width: 750px;
+  margin: auto;
+  color: #786b59;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 40px auto 0;
+  max-width: 950px;
+}
+
+.feature {
+  background: #fffdf8;
+  border: 1px solid #e7d9c1;
+  padding: 30px 22px;
+  flex: 1 1 220px;
+}
+
+.feature h3 {
+  color: #a88958;
+  margin-bottom: 12px;
+  font-weight: normal;
+}
+
+.feature p {
+  font: 14px/1.8 Arial, sans-serif;
+  color: #786b59;
+}
+
+#about { background: #fffdf8; }
+
+#contact {
+  background: #e9d8b8;
+}
+
+#contact a {
+  color: #705735;
+}
+
+footer {
+  background: #806d50;
+  color: #fff8eb;
+  padding: 35px 15px;
+  text-align: center;
+  font: 13px/2 Arial, sans-serif;
+}
+
+footer a {
+  color: #f5dfb7;
+}
+
+@media(max-width:600px) {
+  .logo { font-size: 20px; }
+  nav a { margin: 0 5px; }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">LUNA EXOTIC COMPANION</div>
+  <nav>
+    <a href="#home">HOME</a>
+    <a href="#about">ABOUT</a>
+    <a href="#experience">EXPERIENCE</a>
+    <a href="#contact">CONTACT</a>
+  </nav>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <h1>Elegance In Every Moment</h1>
+  <p>
+    A refined approach to adult companionship,
+    meaningful conversation and memorable social occasions.
+    Presented with grace, consideration and discretion.
+  </p>
+  <a href="#about" class="button">DISCOVER LUNA</a>
+</section>
+
+<section id="about">
+  <h2>Welcome To Luna</h2>
+  <p class="description">
+    Luna Exotic Companion is a sophisticated companion
+    brand for adults who appreciate engaging conversation,
+    warm company and an elegant presence.
+    Respect, privacy and clear communication are at
+    the heart of every interaction.
+  </p>
+
+  <div class="features">
+    <div class="feature">
+      <h3>Elegance</h3>
+      <p>A polished presentation and attention to detail.</p>
+    </div>
+    <div class="feature">
+      <h3>Discretion</h3>
+      <p>Respect for personal privacy and boundaries.</p>
+    </div>
+    <div class="feature">
+      <h3>Respect</h3>
+      <p>Clear communication and mutual consideration.</p>
+    </div>
+  </div>
+</section>
+
+<section id="experience">
+  <h2>The Luna Experience</h2>
+  <p class="description">
+    Discover a welcoming approach to adult companionship,
+    thoughtful conversation and appropriate social occasions.
+    All arrangements are subject to mutual agreement,
+    consent and applicable laws.
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Get In Touch</h2>
+  <p class="description">
+    For enquiries and further information, please contact Luna
+    using the email address below.
+  </p>
+  <a class="button" href="mailto:luna.starr120525@gmail.com">
+    SEND AN EMAIL
+  </a>
+  <p style="margin-top:20px">United States</p>
+  <p>luna.starr120525@gmail.com</p>
+</section>
+</main>
+
+<footer>
+  <p>LUNA EXOTIC COMPANION</p>
+  <p>© 2026 All Rights Reserved.</p>
+
+  <p>
+    <a href="https://MyEscort.Network">
+      MyEscort.Network - Free Escort Ads Directory
+    </a>
+  </p>
+
+  <p>Adults Only. Respect Privacy, Consent And The Law.</p>
+</footer>
+
+</body>
+</html>
